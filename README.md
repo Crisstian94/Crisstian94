@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Planificador Financiero**
 
-- 📫 How to reach me **cristiancv1994@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
