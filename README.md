@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Cristian E. Castro V.</h1>
 <h3 align="center">A passionate Backend, DevOps, Data Analysis from Venezuela</h3>
 
-- 🔭 I’m currently working on **Planificador Financiero**
+- 🔭 Actualmente estoy trabajando en **Planificador Financiero**
+-  💡Ingeniero en Informática con **7+ años de probada experiencia** en **soporte técnico y administración de sistemas**, especializado en entornos de **telecomunicaciones**.
+- ⚙️ Mi pasión es garantizar la **estabilidad, eficiencia y seguridad de sistemas críticos**, así como optimizar procesos para un rendimiento óptimo.
 
+## 🚀 Lo que hago
+
+👨‍💻 Me enfoco en la gestión integral de sistemas, abarcando desde la **administración de bases de datos Oracle y sistemas Weblogic** hasta la **automatización de procesos con Python y Bash Scripting**. 
+📊 Tengo una sólida experiencia en **sistemas de facturación (Billings)** para grandes operadores de telecomunicaciones, asegurando su correcto funcionamiento y optimización.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
