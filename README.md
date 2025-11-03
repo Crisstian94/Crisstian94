@@ -4,6 +4,7 @@
 - 🔭 Actualmente estoy trabajando en **Planificador Financiero**,**Calculador Salarial**,**SISGEN(Sistema de Gestion Integral de Nivel 2)**
 -  💡Ingeniero en Informática con **7+ años de probada experiencia** en **soporte técnico y administración de sistemas**, especializado en entornos de **telecomunicaciones**.
 - ⚙️ Mi pasión es garantizar la **estabilidad, eficiencia y seguridad de sistemas críticos**, así como optimizar procesos para un rendimiento óptimo.
+- 🌐 Actualmente trabajando en el area de Networking, pero sin dejar atras  el desarrollo/soporte  y manejo de sistemas.
 
 ## 🚀 Lo que hago
 
